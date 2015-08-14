@@ -1,0 +1,10 @@
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\bin\Debug\crud-msa.exe
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\bin\Debug\crud-msa.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud-msa.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud_msa.Form1.resources
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud_msa.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud-msa.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud-msa.exe
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud-msa.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud_msa.ContactForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\crud-msa\crud-msa\obj\Debug\crud_msa.InfoWindow.resources
